@@ -36,7 +36,6 @@ layoffs-data-analysis-mysql/
 └── README.md
 
 
-
 🧹 Data Cleaning
 
 The raw layoffs dataset was cleaned using SQL through the following steps:
@@ -136,7 +135,8 @@ MIN()
 SUBSTRING()
 YEAR()
 STR_TO_DATE()
-🎯 Project Objective
+
+#Project Objective
 
 The objective of this project is to demonstrate practical SQL and data analytics skills by taking a raw layoffs dataset through a complete data cleaning and exploratory analysis workflow and extracting meaningful patterns from the data.
 
