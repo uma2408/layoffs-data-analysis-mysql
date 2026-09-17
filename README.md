@@ -36,6 +36,7 @@ layoffs-data-analysis-mysql/
 └── README.md
 
 
+
 🧹 Data Cleaning
 
 The raw layoffs dataset was cleaned using SQL through the following steps:
@@ -144,4 +145,3 @@ The objective of this project is to demonstrate practical SQL and data analytics
 Yatham Uma Maheshwar Reddy
 
 Aspiring Data Analyst | SQL | Excel | Python | Power BI | Tableau
-```
